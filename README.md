@@ -1,1 +1,1 @@
-# https://puderpach.github.io/abtesting/
+# https://puderpach.github.io/abtesting/index.html
